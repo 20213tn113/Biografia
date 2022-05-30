@@ -1,0 +1,104 @@
+
+body{
+    background-image: url(/medios/wallhaven-6o2wpw.jpg);
+    
+}
+#body1{
+    background-image: url(/medios/puerquito.jpeg);
+    
+}
+html, body {
+    height: 100%;
+  }
+#head{
+    align-items: center;
+    background-image: url(/medios/paisaje.png);
+    text-align: center;
+    color: #000;
+    border-radius: 10px;
+    width: 95%;
+    margin: auto;
+    padding: 10px 10px 10px 10px;
+    -webkit-text-stroke: 0.4px rgb(255, 255, 255);
+    font-family:Verdana;
+    font-weight: bold;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #000;
+    
+
+}
+
+
+#img1{
+    
+    float: left;
+    margin-top: 20px;
+    width: 30%;
+    margin-right: 40px;
+}
+#img11{
+    
+    float: left;
+    margin-top: 20px;
+    width: 10%;
+    margin-right: 40px;
+}
+#img12{
+    
+    float: left;
+    margin-top: 20px;
+    width: 9%;
+    margin-right: 40px;
+}
+#img2{
+    
+    float: right;
+    margin-top: 20px;
+    width: 30%;
+    margin-left: 40px;
+}
+
+#p1{
+    font-size: 40px;
+    font-family:Verdana;
+
+}
+#p2{
+    font-size: 38px;
+    font-weight: bold;
+    font-family:Verdana;
+}
+li{
+    font-size: 40px;
+    font-family:Verdana;
+    
+}
+
+#div1{
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+#piePagina{
+    color: #000;
+    text-align: center;
+    border-radius: 10px;
+    padding: auto;
+    width: 98%;
+    margin: auto;
+    height: 90px;
+    background-color: rgb(202, 174, 247);
+    border-width: 2px;
+    border-style: solid;
+    border-color: #000;
+
+    margin-top: 5%;
+    position: absolute;
+
+}
